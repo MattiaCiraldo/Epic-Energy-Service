@@ -8,4 +8,8 @@ E' stato Ralizzare un piccolo frontend per l'applicativo/api di backend, sfrutta
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Per avviare il programma inserire il percorso dei ile .Csv (comuni e province) nella classe Common in package it.mattiaciraldo.spring e configurare il file  application.properties su "src\main\resources" con i dati del Database.
+Per avviare il programma inserire il percorso dei ile .Csv (cartella FinalProject) nella classe Common in package it.mattiaciraldo.spring e configurare il file  application.properties su "src\main\resources" con i dati del Database.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Le chiamate algi endpoint si trovano nel file ProgettoFinale.postman_collection.json (cartella FinalProject)
